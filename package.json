@@ -30,7 +30,7 @@
     "@angular/forms": "^5.x.x",
     "@types/fullcalendar": "3.5.1",
     "@types/jquery": "3.2.16",
-    "fullcalendar": "3.4.0"
+    "fullcalendar": "3.5.0"
   },
   "devDependencies": {
     "@angular/compiler": "^5.x.x",
